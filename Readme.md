@@ -2,7 +2,7 @@
 
 ## 第一期間(11/21-11/30)
 
-AI向けの中学数学
+AIプログラミングのための数学入門
 https://www.youtube.com/watch?v=7A05OamqCyc
 
 KIKAGAKU（Python&機械学習入門）
